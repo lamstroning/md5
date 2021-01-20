@@ -1,2 +1,4 @@
-./obj/
-./libft/obj/
+obj/
+libft/obj/
+*.a
+ft_ssl
